@@ -4,9 +4,9 @@
   <img src="https://i.ibb.co/hgt2q9s/nena.png" />
 </p>
 
-- 🌱 I’m currently learning **Kenthu**.
+- 🌱 Actualmente estoy aprendiendo **HTML**.
 
-- 👀 I'm currently focusing on **JavaScript**.
+- 👀 Actualmente me estoy enfocando en **JavaScript**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
