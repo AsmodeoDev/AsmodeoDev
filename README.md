@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlvioAdjiJanuar"><img src="https://github-readme-stats.vercel.app/api?username=AlvioAdjiJanuar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/AsmodeoDev"><img src="https://github-readme-stats.vercel.app/api?username=AsmodeoDev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlvioAdjiJanuar"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvioAdjiJanuar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/AsmodeoDev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsmodeoDev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvioAdjiJanuar" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmodeoDev" />
 </p>
 
 
